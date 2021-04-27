@@ -1,6 +1,5 @@
 # Notebooks
-
-Various notebooks used as bases to different articles I have published, plus (if any) occasional interesting projects.
+Various notebooks used as bases for different articles I have published, plus occasional interesting projects.
 
 ## Article-related Notebooks
 - ## [sankey_plots.ipynb](https://github.com/MattiaCinelli/notebooks/blob/master/sankey_plots.ipynb)
